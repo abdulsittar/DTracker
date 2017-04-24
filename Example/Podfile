@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DTracker_Example' do
+  pod 'DTracker', :path => '../'
+
+  target 'DTracker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
