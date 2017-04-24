@@ -1,4 +1,5 @@
 # DTracker
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Abdul Sittar/DTracker.svg?style=flat)](https://travis-ci.org/Abdul Sittar/DTracker)
 [![Version](https://img.shields.io/cocoapods/v/DTracker.svg?style=flat)](http://cocoapods.org/pods/DTracker)
@@ -27,3 +28,6 @@ Abdul Sittar, abdulsittar72@yahoo.com
 ## License
 
 DTracker is available under the MIT license. See the LICENSE file for more info.
+=======
+This is a sample project that manages the swift APIs using swift.
+>>>>>>> db261a76e6887f90ca48fbb3c49c831d788026cc
